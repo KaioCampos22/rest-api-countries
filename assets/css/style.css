@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #333;
+    background-color: #eee;
+}
+
+h1 {
+    color: #4F4F4F;
+    font-size: 16;
+    text-align: center;
+}
+
+.nome,
+.capital,
+.area,
+.currencies {
+    color: #808080;
+    font-size: 12;
+    border: 1px solid;
+    font-weight: bold;
+}
+
+table {
+    color: black;
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+/* #main-container {
+    width: 502px;
+    margin: 30px auto;
+    padding: 0;
+} */
+
+@media (max-width: 768px) {
+    body {
+        font-size: 12px;
+    }
+
+    #main-container {
+        width: 342px;
+    }
+
+    #flag-container {
+        height: 172px;
+    }
+
+    #info-container select {
+        font-size: 12px;
+        font-weight: 600;
+    }
+}
