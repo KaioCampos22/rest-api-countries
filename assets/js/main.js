@@ -1,4 +1,4 @@
-const countries = document.querySelector('#table');
+const table = document.querySelector('#table');
 const nome = document.querySelector(".nome");
 const area = document.querySelector(".area");
 const capital = document.querySelector(".capital");
@@ -13,30 +13,42 @@ fetch(`https://restcountries.com/v3.1/all`)
 
 function apiCountries(countries) {
     countries.forEach(country => {
-        tdNome = document.createElement('tr');
-        tdArea = document.createElement('tr');
-        tdCapital = document.createElement('tr');
-        tdCurrencies = document.createElement('tr');
-
         const currencyArray = Object.getOwnPropertyNames(country.currencies)
+        const caption = document.querySelector('caption')
+        caption.innerHTML = 'Countries List'
+        const tbody = document.createElement('tbody')
 
-        tdNome.innerHTML = country.name.common;
-        tdArea.innerHTML = country.area;
-        tdCapital.innerHTML = country.capital;
-        tdCurrencies.innerHTML = currencyArray;
+        table.appendChild(tbody)
+        tbody.innerHTML = `<tr>
+        <td>${country.name.common}</td>
+        <td>${country.area}</td>
+        <td>${country.capital}</td>
+        <td>${currencyArray}</td>
+        </tr>`
+        tdNome = document.querySelector('.nome');
+        tdArea = document.querySelector('.area');
+        tdCapital = document.querySelector('.capital');
+        tdCurrencies = document.querySelector('.currencies');
+
+
+        tdNome.innerHTML = 'NAME'
+        tdArea.innerHTML = 'AREA'
+        tdCapital.innerHTML = 'CAPITAL'
+        tdCurrencies.innerHTML = 'CURRENCIES'
 
 
 
-        nome.appendChild(tdNome);
-        area.appendChild(tdArea);
-        capital.appendChild(tdCapital);
-        currencies.appendChild(tdCurrencies);
+        // nome.appendChild(tdNome);
+        // area.appendChild(tdArea);
+        // capital.appendChild(tdCapital);
+        // currencies.appendChild(tdCurrencies);
         if (country.capital === undefined) {
             return tdCapital.innerHTML = '-'
         }
         return;
     });
 };
+
 
 
 

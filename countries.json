@@ -1,0 +1,603 @@
+[
+    {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland",
+            "nativeName": {
+                "fin": {
+                    "official": "Suomen tasavalta",
+                    "common": "Suomi"
+                },
+                "swe": {
+                    "official": "Republiken Finland",
+                    "common": "Finland"
+                }
+            }
+        },
+        "tld": [
+            ".fi"
+        ],
+        "cca2": "FI",
+        "ccn3": "246",
+        "cca3": "FIN",
+        "cioc": "FIN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "58"
+            ]
+        },
+        "capital": [
+            "Helsinki"
+        ],
+        "altSpellings": [
+            "FI",
+            "Suomi",
+            "Republic of Finland",
+            "Suomen tasavalta",
+            "Republiken Finland"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية فنلندا",
+                "common": "فنلندا"
+            },
+            "bre": {
+                "official": "Republik Finland",
+                "common": "Finland"
+            },
+            "ces": {
+                "official": "Finská republika",
+                "common": "Finsko"
+            },
+            "cym": {
+                "official": "Republic of Finland",
+                "common": "Finland"
+            },
+            "deu": {
+                "official": "Republik Finnland",
+                "common": "Finnland"
+            },
+            "est": {
+                "official": "Soome Vabariik",
+                "common": "Soome"
+            },
+            "fin": {
+                "official": "Suomen tasavalta",
+                "common": "Suomi"
+            },
+            "fra": {
+                "official": "République de Finlande",
+                "common": "Finlande"
+            },
+            "hrv": {
+                "official": "Republika Finska",
+                "common": "Finska"
+            },
+            "hun": {
+                "official": "Finn Köztársaság",
+                "common": "Finnország"
+            },
+            "ita": {
+                "official": "Repubblica di Finlandia",
+                "common": "Finlandia"
+            },
+            "jpn": {
+                "official": "フィンランド共和国",
+                "common": "フィンランド"
+            },
+            "kor": {
+                "official": "핀란드 공화국",
+                "common": "핀란드"
+            },
+            "nld": {
+                "official": "Republiek Finland",
+                "common": "Finland"
+            },
+            "per": {
+                "official": "جمهوری فنلاند",
+                "common": "فنلاند"
+            },
+            "pol": {
+                "official": "Republika Finlandii",
+                "common": "Finlandia"
+            },
+            "por": {
+                "official": "República da Finlândia",
+                "common": "Finlândia"
+            },
+            "rus": {
+                "official": "Финляндская Республика",
+                "common": "Финляндия"
+            },
+            "slk": {
+                "official": "Fínska republika",
+                "common": "Fínsko"
+            },
+            "spa": {
+                "official": "República de Finlandia",
+                "common": "Finlandia"
+            },
+            "swe": {
+                "official": "Republiken Finland",
+                "common": "Finland"
+            },
+            "urd": {
+                "official": "جمہوریہ فن لینڈ",
+                "common": "فن لینڈ"
+            },
+            "zho": {
+                "official": "芬兰共和国",
+                "common": "芬兰"
+            }
+        },
+        "latlng": [
+            64.0,
+            26.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "NOR",
+            "SWE",
+            "RUS"
+        ],
+        "area": 338424.0,
+        "demonyms": {
+            "eng": {
+                "f": "Finnish",
+                "m": "Finnish"
+            },
+            "fra": {
+                "f": "Finlandaise",
+                "m": "Finlandais"
+            }
+        },
+        "flag": "\uD83C\uDDEB\uD83C\uDDEE",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+            "openStreetMaps": "openstreetmap.org/relation/54224"
+        },
+        "population": 5530719,
+        "gini": {
+            "2018": 27.3
+        },
+        "fifa": "FIN",
+        "car": {
+            "signs": [
+                "FIN"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/fi.png",
+            "svg": "https://flagcdn.com/fi.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/fi.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/fi.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                60.17,
+                24.93
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(?:FI)*(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Guatemala",
+                    "common": "Guatemala"
+                }
+            }
+        },
+        "tld": [
+            ".gt"
+        ],
+        "cca2": "GT",
+        "ccn3": "320",
+        "cca3": "GTM",
+        "cioc": "GUA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "02"
+            ]
+        },
+        "capital": [
+            "Guatemala City"
+        ],
+        "altSpellings": [
+            "GT"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية غواتيمالا",
+                "common": "غواتيمالا"
+            },
+            "bre": {
+                "official": "Republik Guatemala",
+                "common": "Guatemala"
+            },
+            "ces": {
+                "official": "Republika Guatemala",
+                "common": "Guatemala"
+            },
+            "cym": {
+                "official": "Republic of Guatemala",
+                "common": "Guatemala"
+            },
+            "deu": {
+                "official": "Republik Guatemala",
+                "common": "Guatemala"
+            },
+            "est": {
+                "official": "Guatemala Vabariik",
+                "common": "Guatemala"
+            },
+            "fin": {
+                "official": "Guatemalan tasavalta",
+                "common": "Guatemala"
+            },
+            "fra": {
+                "official": "République du Guatemala",
+                "common": "Guatemala"
+            },
+            "hrv": {
+                "official": "Republika Gvatemala",
+                "common": "Gvatemala"
+            },
+            "hun": {
+                "official": "Guatemalai Köztársaság",
+                "common": "Guatemala"
+            },
+            "ita": {
+                "official": "Repubblica del Guatemala",
+                "common": "Guatemala"
+            },
+            "jpn": {
+                "official": "グアテマラ共和国",
+                "common": "グアテマラ"
+            },
+            "kor": {
+                "official": "과테말라 공화국",
+                "common": "과테말라"
+            },
+            "nld": {
+                "official": "Republiek Guatemala",
+                "common": "Guatemala"
+            },
+            "per": {
+                "official": "جمهوری گواتِمالا",
+                "common": "گواتِمالا"
+            },
+            "pol": {
+                "official": "Republika Gwatemali",
+                "common": "Gwatemala"
+            },
+            "por": {
+                "official": "República da Guatemala",
+                "common": "Guatemala"
+            },
+            "rus": {
+                "official": "Республика Гватемала",
+                "common": "Гватемала"
+            },
+            "slk": {
+                "official": "Guatemalská republika",
+                "common": "Guatemala"
+            },
+            "spa": {
+                "official": "República de Guatemala",
+                "common": "Guatemala"
+            },
+            "swe": {
+                "official": "Republiken Guatemala",
+                "common": "Guatemala"
+            },
+            "urd": {
+                "official": "جمہوریہ گواتیمالا",
+                "common": "گواتیمالا"
+            },
+            "zho": {
+                "official": "危地马拉共和国",
+                "common": "危地马拉"
+            }
+        },
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "landlocked": false,
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "area": 108889.0,
+        "demonyms": {
+            "eng": {
+                "f": "Guatemalan",
+                "m": "Guatemalan"
+            },
+            "fra": {
+                "f": "Guatémaltèque",
+                "m": "Guatémaltèque"
+            }
+        },
+        "flag": "\uD83C\uDDEC\uD83C\uDDF9",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+        },
+        "population": 16858333,
+        "gini": {
+            "2014": 48.3
+        },
+        "fifa": "GUA",
+        "car": {
+            "signs": [
+                "GCA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gt.png",
+            "svg": "https://flagcdn.com/gt.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                14.62,
+                -90.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "tld": [
+            ".cl"
+        ],
+        "cca2": "CL",
+        "ccn3": "152",
+        "cca3": "CHL",
+        "cioc": "CHI",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Santiago"
+        ],
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "República de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية تشيلي",
+                "common": "تشيلي"
+            },
+            "bre": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "ces": {
+                "official": "Chilská republika",
+                "common": "Chile"
+            },
+            "cym": {
+                "official": "Gweriniaeth Chile",
+                "common": "Chile"
+            },
+            "deu": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "est": {
+                "official": "Tšiili Vabariik",
+                "common": "Tšiili"
+            },
+            "fin": {
+                "official": "Chilen tasavalta",
+                "common": "Chile"
+            },
+            "fra": {
+                "official": "République du Chili",
+                "common": "Chili"
+            },
+            "hrv": {
+                "official": "Republika Čile",
+                "common": "Čile"
+            },
+            "hun": {
+                "official": "Chilei Köztársaság",
+                "common": "Chile"
+            },
+            "ita": {
+                "official": "Repubblica del Cile",
+                "common": "Cile"
+            },
+            "jpn": {
+                "official": "チリ共和国",
+                "common": "チリ"
+            },
+            "kor": {
+                "official": "칠레 공화국",
+                "common": "칠레"
+            },
+            "nld": {
+                "official": "Republiek Chili",
+                "common": "Chili"
+            },
+            "per": {
+                "official": "جمهوری شیلی",
+                "common": "شیلی"
+            },
+            "pol": {
+                "official": "Republika Chile",
+                "common": "Chile"
+            },
+            "por": {
+                "official": "República do Chile",
+                "common": "Chile"
+            },
+            "rus": {
+                "official": "Республика Чили",
+                "common": "Чили"
+            },
+            "slk": {
+                "official": "Čílska republika",
+                "common": "Čile"
+            },
+            "spa": {
+                "official": "República de Chile",
+                "common": "Chile"
+            },
+            "swe": {
+                "official": "Republiken Chile",
+                "common": "Chile"
+            },
+            "urd": {
+                "official": "جمہوریہ چلی",
+                "common": "چلی"
+            },
+            "zho": {
+                "official": "智利共和国",
+                "common": "智利"
+            }
+        },
+        "latlng": [
+            -30.0,
+            -71.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "area": 756102.0,
+        "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
+            "fra": {
+                "f": "Chilienne",
+                "m": "Chilien"
+            }
+        },
+        "flag": "\uD83C\uDDE8\uD83C\uDDF1",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+        },
+        "population": 19116209,
+        "gini": {
+            "2017": 44.4
+        },
+        "fifa": "CHI",
+        "car": {
+            "signs": [
+                "RCH"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cl.png",
+            "svg": "https://flagcdn.com/cl.svg"
+        }
+    }
+]
