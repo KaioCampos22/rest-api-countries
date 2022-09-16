@@ -19,12 +19,14 @@ function apiCountries(countries) {
         const tbody = document.createElement('tbody')
 
         table.appendChild(tbody)
-        tbody.innerHTML = `<tr>
+        const tr = document.createElement('tr')
+        tbody.appendChild(tr)
+        tr.innerHTML = `
         <td>${country.name.common}</td>
         <td>${country.area}</td>
         <td>${country.capital}</td>
         <td>${currencyArray}</td>
-        </tr>`
+        `
         tdNome = document.querySelector('.nome');
         tdArea = document.querySelector('.area');
         tdCapital = document.querySelector('.capital');
